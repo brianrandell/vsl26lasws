@@ -6,7 +6,12 @@ VSLIVE! 2026 Las Vegas Workshop Notes and Other Bobbles
 
 ## Tools
 
-[Oh-my-Posh](https://ohmyposh.dev/)
+[Oh-my-Posh](https://ohmyposh.dev/) — A prompt theme engine for any shell
+
+```bash
+winget install JanDeDobbeleer.OhMyPosh
+brew install jandedobbeleer/oh-my-posh/oh-my-posh
+```
 
 [Atuin](https://atuin.sh/) — Magical shell history search & sync
 
